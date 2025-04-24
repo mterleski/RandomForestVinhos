@@ -1,7 +1,7 @@
-Random Forest para Qualidade do Vinho
+Random Forest para Qualidade do Vinho.
 Este projeto aplica o algoritmo de Random Forest para prever a qualidade dos vinhos com base em suas características físico-químicas. Trata-se de uma tarefa de classificação multiclasse.
 
-Objetivo
+Objetivo:
 Prever a nota (qualidade) de vinhos com base em atributos como acidez, teor alcoólico, cloretos, entre outros, utilizando um modelo de aprendizado de máquina supervisionado.
 
 Tecnologias Utilizadas
@@ -32,12 +32,12 @@ Relatório de classificação (precision, recall, f1-score)
 5. Visualização de Importância das Variáveis
 Gera-se um gráfico de barras com as features mais relevantes para a classificação.
 
-Como Executar
+Como Executar: 
 Clone o repositório ou baixe o notebook RandomForest dos vinhos.ipynb
 Instale os requisitos:
 pip install pandas scikit-learn matplotlib seaborn
 Execute o notebook em um ambiente como Jupyter Notebook, VS Code ou Google Colab
 
-Conclusão
+Conclusão: 
 O modelo Random Forest se mostrou eficaz para prever a qualidade dos vinhos, com boa acurácia e interpretabilidade das variáveis. O projeto também permite exploração de melhorias com otimização de hiperparâmetros ou engenharia de atributos.
 
